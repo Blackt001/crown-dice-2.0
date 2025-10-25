@@ -44,6 +44,5 @@
   ],
   "author": "MiniMax Agent",
   "license": "MIT",
-  "private": true,
-  "preferGlobal": false
+  "private": true
 }
