@@ -4,7 +4,7 @@
   "description": "Modern Çok Oyunculu Zar Deneyimi - Crown & Dice 2.0",
   "scripts": {
     "dev": "next dev",
-    "build": "next build",
+    "build": "pnpm install && next build",
     "start": "next start",
     "lint": "next lint",
     "type-check": "tsc --noEmit"
